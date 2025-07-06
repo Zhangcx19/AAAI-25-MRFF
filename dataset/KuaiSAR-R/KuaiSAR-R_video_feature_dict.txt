@@ -1,0 +1,6 @@
+item_type
+upload_type
+first_level_category_name
+second_level_category_name
+third_level_category_name
+fourth_level_category_name
